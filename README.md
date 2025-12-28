@@ -47,19 +47,6 @@ everything here is **built from scratch**.
 - **Project Name** – Short description of what it does and what tech you used  
 - **Project Name** – Small experiment or feature-focused project  
 - **Project Name** – Learning-based or design-driven project  
-
----
-
-## 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME" />
-</p>
-
 ---
 
 ## 📫 Connect With Me
