@@ -42,11 +42,10 @@ everything here is **built from scratch**.
 ---
 
 ## 📌 Featured Projects
-> *(I’ll help you fill this section once you pick projects)*
 
-- **Project Name** – Short description of what it does and what tech you used  
-- **Project Name** – Small experiment or feature-focused project  
-- **Project Name** – Learning-based or design-driven project  
+- Job Portal — Full-stack MERN job platform with authentication and applications 
+- Language Platform — Interactive learning system with admin-controlled content
+ 
 ---
 
 ## 📫 Connect With Me
