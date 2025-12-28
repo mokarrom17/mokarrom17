@@ -65,7 +65,7 @@ everything here is **built from scratch**.
 ## 📫 Connect With Me
 
 - GitHub: [https://github.com/YOUR_GITHUB_USERNAME](https://github.com/mokarrom17)
-- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN_USERNAME
+- LinkedIn:
 - Email: mokarrombasher@gmail.com
 
 ---
